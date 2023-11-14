@@ -128,7 +128,7 @@ export const App = () => {
             const optionTag = document.createElement('div');
             optionTag.className = 'action-btns';
             let text = document.createElement('p');
-            text.textContent = 'Hello'
+            text.textContent = 'Lunar 3'
             optionTag.appendChild(text)
             // optionTag.textContent = 'Press T to sit';
             const optionLabel = new CSS2DObject(optionTag);
